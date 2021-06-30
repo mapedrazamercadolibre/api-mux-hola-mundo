@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "1365205c-0707-4aa6-99b5-84c04a8569a4",
+		"name": "holamundo-mux",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Hola Mundo Mux",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		}
+	]
+}
